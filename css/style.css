@@ -57,7 +57,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff; }
+  background-color: #2215d8; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -137,7 +137,7 @@ a {
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #0056b3;
+    color: #00b300;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -417,7 +417,7 @@ mark,
 
 code {
   font-size: 87.5%;
-  color: #e83e8c;
+  color: #119776;
   word-break: break-word; }
   a > code {
     color: inherit; }
